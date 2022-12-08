@@ -1,0 +1,16 @@
+package com.example.missnotasytareas.controlador
+
+object constantes {
+    val ID_NOTAS_KEY = "ID_NOT_KEY"
+    val ID_TAREAS_KEY = "ID_TAR_KEY"
+
+    val ID_IMAGENES_KEY = "ID_IMAGENES_KEY"
+
+    val OPERACION_KEY = "OPERACION_KEY"
+    val OPERACION_INSERTAR = "INSERTAR"
+    val OPERACION_EDITAR = "EDITAR"
+
+    val ACTION_SET_EXACT_ALARM = "ACTION_SET_EXACT_ALARM"
+    val ACTION_SET_REPETITIVE_ALARM = "ACTION_SET_REPETITIVE_ALARM"
+    val EXTRA_EXACT_ALARM_TIME = "EXTRA_EXACT_ALARM_TIME"
+}

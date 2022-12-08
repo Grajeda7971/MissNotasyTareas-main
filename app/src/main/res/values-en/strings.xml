@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Notes And Homeworks</string>
+    <string name="buscar">Search</string>
+    <string name="nueva_nota">New Note</string>
+    <string name="ver_tareas">See Homework</string>
+    <string name="nueva_tarea">New Homework</string>
+    <string name="Nueva_Nota">New Note</string>
+    <string name="titulo">Title</string>
+    <string name="descripcion">Description</string>
+    <string name="guardar">Save</string>
+    <string name="Nueva_Tarea">New Homework</string>
+    <string name="Titulo">Title</string>
+    <string name="Descripcion">Description</string>
+    <string name="fecha">Date</string>
+    <string name="hora">Hour</string>
+    <string name="seleccionar_alarma">Select alarm</string>
+    <string name="Guardar">Save</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tomar_foto">Take Photo</string>
+    <string name="tomar_video">Start Capture</string>
+    <string name="detener_video">Stop Capture</string>
+    <string name="agregar_foto_video">Add Photo/Video</string>
+</resources>
